@@ -95,7 +95,7 @@
 		<org.quartz.version>1.6.2</org.quartz.version>
 		<activation.version>1.1.1</activation.version>
 		<aopalliance.version>1.0</aopalliance.version>
-		<xstream.version>1.4.4</xstream.version>
+		<xstream.version>1.4.6</xstream.version>
 	</properties>
 
 	<repositories>
