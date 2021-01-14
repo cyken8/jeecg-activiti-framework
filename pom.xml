@@ -49,7 +49,7 @@
 		<freemarker.version>2.3.19</freemarker.version>
 		<hamcrest.version>1.3</hamcrest.version>
 		<hibernate-validator.version>4.2.0.Final</hibernate-validator.version>
-		<poi.version>3.9</poi.version>
+		<poi.version>3.17</poi.version>
 		<antlr.version>3.3</antlr.version>
 		<juh.version>3.2.1</juh.version>
 		<unoil.version>3.2.1</unoil.version>
