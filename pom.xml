@@ -11,7 +11,7 @@
 		<hibernate.version>4.1.0.Final</hibernate.version>
 		<!-- 工作流 -->
 		<activiti.version>5.15</activiti.version>
-		<mybatis.version>3.2.5</mybatis.version>
+		<mybatis.version>3.5.6</mybatis.version>
 
 
 		<!-- 辅助依赖包 -->
